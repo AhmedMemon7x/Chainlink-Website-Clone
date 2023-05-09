@@ -97,7 +97,7 @@
   text-underline-offset: 7px;
 }
 .container2 {
-  background-image: url(/img/5f85cf0e9a917f5c41b4cca5_homepage-hero-2880-min-p-2000.webp);
+  background-image: url(./img/5f85cf0e9a917f5c41b4cca5_homepage-hero-2880-min-p-2000.webp);
   background-size: cover;
   height: 90vh;
 }
@@ -371,7 +371,7 @@ div.card1 {
   width: 14vw;
   height: 43vh;
   border-radius: 10px;
-  background-image: url(/img/5f747ae7e73f6ae16e905f8d_card-building-background.svg);
+  background-image: url(./img/5f747ae7e73f6ae16e905f8d_card-building-background.svg);
   background-position: top 130px left 32px;
   background-repeat: no-repeat;
   transition: margin 0.3s ease-in-out;
@@ -588,7 +588,7 @@ transition: border-color 0.3s ease-in-out, color 0.3s ease-in-out;
 }
 footer{font-family: "Roboto", sans-serif;}
 .foot{
-  background-image: url(/img/5f7225356e10d05f3cb75521_background-light.webp);
+  background-image: url(./img/5f7225356e10d05f3cb75521_background-light.webp);
   margin-top: 12vh;
   height: 60vh;
   background-size:cover ;
